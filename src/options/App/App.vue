@@ -1,6 +1,6 @@
 <template>
   <div class="main_app">
-    <h1>Hello Options</h1>
+    <p>The Missing Markup - Options</p>
   </div>
 </template>
 
