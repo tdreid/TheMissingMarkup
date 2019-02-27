@@ -1,6 +1,6 @@
 <template>
   <div class="main_app">
-    <h1>Hello popup</h1>
+    <p>Select Customizations</p>
   </div>
 </template>
 
